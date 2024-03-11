@@ -3,7 +3,7 @@
 <div style="border-bottom: 10px solid #fe6244; padding: 0px;">
 </div>
 
-- [Supsis nedir?](./SUPSISWHY.md)
+- [Supsis nedir?](#supsis-nedir)
 - [Demo hesap nasıl oluştururum?](http://www.example.com)
 
 ## Supsis nedir?
