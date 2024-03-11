@@ -140,5 +140,5 @@ Supsis Client SDK ve API hakkında tüm bilgileri burada bulabilirsiniz.
 
 ***
 
-- [Sıkça Sorulan Sorular](http://www.example.com)
+- [Sıkça Sorulan Sorular](SSS/SSS.md)
 
