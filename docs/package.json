@@ -1,0 +1,20 @@
+{
+  "name": "doc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/doc",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-default": "^1.9.10",
+    "vuepress": "^1.5.3"
+  }
+}
